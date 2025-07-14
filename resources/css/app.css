@@ -1,0 +1,13 @@
+/* Hide the browser's default password reveal icon */
+input[type="password"]::-ms-reveal,
+input[type="password"]::-ms-clear {
+    display: none;
+}
+
+input[type="password"]::-webkit-reveal,
+input[type="password"]::-webkit-clear-button {
+    display: none !important;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
