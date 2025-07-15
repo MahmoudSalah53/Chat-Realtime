@@ -89,7 +89,6 @@
       <td align="center" width="200px">
         <img src="https://alpinejs.dev/alpine_long.svg" width="60" height="30" alt="Alpine.js"><br>
         <strong>Alpine.js</strong><br>
-        <strong>Alpine.js</strong><br>
         <em>JavaScript Framework</em>
       </td>
       <td align="center" width="200px">
