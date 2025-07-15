@@ -5,8 +5,8 @@ A real-time chat application built using the **TALL Stack**
 
 ## 📸 Preview
 
-![Chat Screenshot 1](screenshots/chat-1.png)
-![Chat Screenshot 2](screenshots/chat-2.png)
+![Chat Screenshot 1](screenshots/chat1.png)
+![Chat Screenshot 2](screenshots/chat2.png)
 
 ---
 
