@@ -26,7 +26,7 @@
 
             <div class="flex w-full items-center px-4 lg:px-6 gap-3 md:gap-5 py-2">
 
-                <a href="#" class="shrink-0 lg:hidden text-gray-600 hover:text-gray-800 transition-colors">
+                <a href="{{ route('chat.index') }}" class="shrink-0 lg:hidden text-gray-600 hover:text-gray-800 transition-colors">
 
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                         stroke="currentColor" class="w-6 h-6">
