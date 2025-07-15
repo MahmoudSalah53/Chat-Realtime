@@ -68,10 +68,10 @@
 
                             <!-- User Info -->
                             <div class="p-8 pt-6 text-center">
-                                <h3 class="text-xl font-bold text-gray-800 mb-2 group-hover:text-blue-700 transition-colors duration-300">
+                                <h3 class="text-xl font-bold text-gray-800 mb-2 group-hover:text-blue-700 transition-colors duration-300 truncate px-2" title="{{$user->name}}">
                                     {{$user->name}}
                                 </h3>
-                                <p class="text-sm text-gray-500 mb-6 px-2">
+                                <p class="text-sm text-gray-500 mb-6 px-2 truncate" title="{{$user->email}}">
                                     {{$user->email}}
                                 </p>
 
