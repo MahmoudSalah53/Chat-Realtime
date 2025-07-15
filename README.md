@@ -87,7 +87,7 @@
     </tr>
     <tr>
       <td align="center" width="200px">
-        <img src="https://alpinejs.dev/alpine_long.svg" width="60" height="30" alt="Alpine.js"><br>
+        <img src="https://avatars.githubusercontent.com/u/59030166?s=200&v=4" width="60" height="60" alt="Alpine.js"><br>
         <strong>Alpine.js</strong><br>
         <em>JavaScript Framework</em>
       </td>
