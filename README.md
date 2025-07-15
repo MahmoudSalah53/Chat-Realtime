@@ -167,6 +167,7 @@ php artisan serve
    PUSHER_APP_KEY=your_app_key
    PUSHER_APP_SECRET=your_app_secret
    PUSHER_APP_CLUSTER=your_app_cluster
+   BROADCAST_CONNECTION=pusher
    ```
 
 ---
