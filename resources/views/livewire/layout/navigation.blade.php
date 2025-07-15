@@ -38,8 +38,8 @@ new class extends Component {
 }; ?>
 
 <nav x-data="{ open: false }"
-    class="bg-gradient-to-r from-slate-50 to-white shadow-lg border-b border-slate-200/50 backdrop-blur-sm">
-    <!-- Primary Navigation Menu -->
+    class="bg-gradient-to-r from-slate-50 to-white shadow-lg border-b border-slate-200/50 backdrop-blur-sm lg:z-50 lg:relative">
+   <!-- Primary Navigation Menu -->
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="flex justify-between h-16">
             <div class="flex">
