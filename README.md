@@ -92,7 +92,7 @@
         <em>JavaScript Framework</em>
       </td>
       <td align="center" width="200px">
-        <img src="https://pusher.com/static_logos/pusher-logo.png" width="60" height="60" alt="Pusher"><br>
+        <img src="https://pusher.com/static_logos/pusher-logo.png](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white" width="60" height="60" alt="Pusher"><br>
         <strong>Pusher</strong><br>
         <em>Real-time Engine</em>
       </td>
